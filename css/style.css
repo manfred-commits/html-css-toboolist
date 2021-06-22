@@ -53,13 +53,47 @@ hr{
 .tasks-container{
     margin: 30px 0;
 }
-table{
+li{
     list-style: none;
 }
-span{
-    line-height: 30px;
+.arrow-formatting{
+    color: #51555D;
 }
 .title-formatting{
-    height: 30px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #51555D;
     display: inline-block;
+}
+.plain-text-formatting{
+    margin-top: 20px;
+}
+.checkbox-formatting{    
+    color:lightgreen;
+    border: 2px solid lightgreen;
+}
+.symbol-container{
+    display: inline-block;
+    height: 22px;
+    width: 22px;
+    padding-bottom: 2px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 5px;
+    font-size: 15px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.box-shape{    
+    width: 60px;
+    height: 25px;
+    padding: 7px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    color: white;
+}
+#editorial{
+    background-color: #47ADF1;
 }
