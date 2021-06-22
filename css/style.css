@@ -51,8 +51,15 @@ hr{
     background-color: #F6F8F9;
 }
 .tasks-container{
-    height: 600px;
+    margin: 30px 0;
 }
 table{
     list-style: none;
+}
+span{
+    line-height: 30px;
+}
+.title-formatting{
+    height: 30px;
+    display: inline-block;
 }
