@@ -61,7 +61,7 @@ li{
 }
 .title-formatting{
     font-weight: bold;
-    font-size: 25px;
+    font-size: 22px;
     color: #51555D;
     display: inline-block;
 }
@@ -96,4 +96,17 @@ li{
 }
 #editorial{
     background-color: #47ADF1;
+}
+#Q1-Goals{
+    background-color: #9C72E4;
+}
+#Recruiting{
+    background-color:#64C0A9;
+}
+.cross-formatting{
+    color:red;
+    border: 2px solid red;
+}
+#Mobile{
+    background-color: #F29E33;
 }
