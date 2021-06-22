@@ -19,3 +19,40 @@ header{
 h1{
     display: inline-block;
 }
+.main-container{
+    background-color: white;
+    width: 70%;
+    margin: 50px auto;
+    border-radius: 8px;
+}
+.content-container{
+    width: 90%;
+    margin:auto;
+}
+.button-positioning{
+    padding: 13px 0;
+}
+.button-sizing{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+}
+#button-task{
+    background-color:#47ADF1;
+    color: white;
+    border: 2px solid #47ADF1;
+}
+#button-section{
+    background-color: white;
+    color: #C5CBD0;
+    border: 2px solid #C5CBD0;
+}
+hr{
+    background-color: #F6F8F9;
+}
+.tasks-container{
+    height: 600px;
+}
+table{
+    list-style: none;
+}
