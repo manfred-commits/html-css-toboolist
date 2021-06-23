@@ -80,7 +80,8 @@ li{
     border-radius: 50%;
     margin-right: 5px;
     font-size: 15px;
-    vertical-align: middle;
+    /*not sure if this line-height is working properly*/
+    line-height: 22px;
     font-weight: bold;
 }
 .box-shape{    
