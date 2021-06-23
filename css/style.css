@@ -96,25 +96,25 @@ li{
 .editorial{
     background-color: #47ADF1;
 }
-#Q1-Goals{
+.Q1-Goals{
     background-color: #9C72E4;
 }
-#Recruiting{
+.Recruiting{
     background-color:#64C0A9;
 }
 .cross-formatting{
     color:red;
     border: 2px solid red;
 }
-#Mobile{
+.Mobile{
     background-color: #F29E33;
 }
 .footer-formatting{
     padding-bottom: 30px;
 }
-#website{
+.website{
     background-color: #D863A1;
 }
-#sales{
+.sales{
     background-color: #B0C926;
 }
