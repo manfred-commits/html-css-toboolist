@@ -74,20 +74,20 @@ li{
 }
 .symbol-container{
     display: inline-block;
-    height: 22px;
-    width: 22px;
+    height: 25px;
+    width: 25px;
     text-align: center;
     border-radius: 50%;
     margin-right: 5px;
     font-size: 15px;
     /*not sure if this line-height is working properly*/
-    line-height: 22px;
+    line-height: 25px;
     font-weight: bold;
 }
 .box-shape{    
     width: 60px;
     height: 25px;
-    padding: 7px;
+    line-height:25px;
     border-radius: 10px;
     text-align: center;
     display: inline-block;
